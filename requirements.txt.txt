@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+fuzzywuzzy
+torch
+python-Levenshtein
